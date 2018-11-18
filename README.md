@@ -7,5 +7,5 @@ Here I will present some of the assignments from the book, and later put persona
 
 #Why probability in computing?
 
-Probability has many applications in computing. Here I will just briefly mention some of them.
+Probability has many applications in computing. Here, I will just briefly mention some of them.
 Probabilistic methods could be used to analyse complexities of algorithms. On the other hand, one could develope an algorithm that gives the correct solution with a certain probability. This algorithm might run much faster than other algorithms. Furthermore, some NP-hard problems such as Hamiltonian cycle could be solved in polynomial time with high a probability.
